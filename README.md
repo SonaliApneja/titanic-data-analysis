@@ -1,2 +1,1 @@
-# titanic-data-analysis
-Data cleaning and survival rate analysis on the Titanic dataset using Python (pandas, NumPy, matplotlib).
+This project explores the Titanic dataset to practice data cleaning, exploratory data analysis (EDA), and visualization using Python. Tasks include handling missing values, analyzing survival rates by gender, passenger class, and age, and creating plots to visualize insights.
